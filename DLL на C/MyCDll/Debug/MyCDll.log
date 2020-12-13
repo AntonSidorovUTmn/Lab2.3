@@ -1,0 +1,4 @@
+﻿  MyCDll.cpp
+C:\Users\ygonnik\source\repos\MyCDll\MyCDll.cpp(14): warning C4172: возвращение адреса локальной или временной переменной : c
+     Создается библиотека C:\Users\ygonnik\source\repos\MyCDll\Debug\MyCDll.lib и объект C:\Users\ygonnik\source\repos\MyCDll\Debug\MyCDll.exp
+  MyCDll.vcxproj -> C:\Users\ygonnik\source\repos\MyCDll\Debug\MyCDll.dll

@@ -1,0 +1,2 @@
+C:\Users\ygonnik\source\repos\MyCDll\Debug\MyCDll.dll
+C:\Users\ygonnik\source\repos\MyCDll\Debug\MyCDll.pdb
