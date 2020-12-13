@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  dllmain.cpp
+  MyCppDll.cpp
+  Создание кода...
+C:\Users\ygonnik\source\repos\MyCppDll\MyCppDll.cpp(13): warning C4172: возвращение адреса локальной или временной переменной : c
+     Создается библиотека C:\Users\ygonnik\source\repos\MyCppDll\Debug\MyCppDll.lib и объект C:\Users\ygonnik\source\repos\MyCppDll\Debug\MyCppDll.exp
+  MyCppDll.vcxproj -> C:\Users\ygonnik\source\repos\MyCppDll\Debug\MyCppDll.dll
